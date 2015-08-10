@@ -2,95 +2,81 @@
 <items version="2" >
 
     <item
-        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-d6f90f1e45dfb574a26cc4d4aea49a61346685eb.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-c0844d52651794a0843e552a81050589324841ba.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-a74ad71eda93d3ddfeab9f46e0682a46edb40110.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-b569c60774236c46ca9a845c1a01f7c38265a486.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
+        jar="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-32233b5a1404e7d61d3756b07182e6cd2916fe71.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6c6b497aa9e3aadbaabf975379e7914fa9e65523">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-96f81f55f99cb35298ce155a177e049354499354.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/okio-1.2.0-6cb76013c20ee640717695e4a08fc841711d32d2.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-9ae645f9d2f463bb39d60ec978e1e82f80d6b8ba.jar" />
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/classes-67bb3d25f73b2b7f923e38e2e356e7a4c3a9a49b.jar" />
     </item>
     <item
         jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/gson-2.3.1-7ffa269a2ef588f05f64d94d89039bcc10e2e201.jar" />
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/gson-2.3.1-7ffa269a2ef588f05f64d94d89039bcc10e2e201.jar" />
     </item>
     <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/okio-1.2.0-6cb76013c20ee640717695e4a08fc841711d32d2.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-0711b116ac43fbf910e928fdc8e7ebdee4bfe721.jar" />
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6d5ac8d2cae1345cdd3ac39069762289565d748e.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/classes-24b3d29d0a68fa35f936396b88fe618dbd8b8cae.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-c0844d52651794a0843e552a81050589324841ba.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7dce0a4a7ff1f86bead71593181c1f6ebde3aa77">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/classes-b02686a7ea7dabba202da6051a678a4f53aab8a3.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/classes-6947c01f9e904a6ac009113aa635033fb03c79fb.jar" />
     </item>
     <item
         jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-d45a00ac73386a399eebbfc0644f6e2ea9dc6f94.jar" />
-    </item>
-    <item
-        jar="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.3.4/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7dce0a4a7ff1f86bead71593181c1f6ebde3aa77">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/classes-8ea029de832e8fc4e815bb68898099e7a6856925.jar" />
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-d45a00ac73386a399eebbfc0644f6e2ea9dc6f94.jar" />
     </item>
     <item
         jar="/Users/peacepassion/Dev/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/Users/peacepassion/Dev/Android/Src/Common/GradleAndroidTemplate/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5dc363a11b5d50bfc3adcfdfd36655ed2c542ca0.jar" />
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5dc363a11b5d50bfc3adcfdfd36655ed2c542ca0.jar" />
+    </item>
+    <item
+        jar="/Users/peacepassion/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/peacepassion/Dev/Android/Src/Try/DrawableDemo/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-d6f90f1e45dfb574a26cc4d4aea49a61346685eb.jar" />
     </item>
 
 </items>

@@ -1,9 +1,9 @@
 package org.peace.DrawableDemo.ui;
 
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
     private final String LOG_TAG = LogHelper.getNativeSimpleLogTag(MainActivity.class, LogHelper.DEFAULT_LOG_TAG);
 
-    @InjectView(R.id.btn1)
-    Button btn1;
+    @InjectView(R.id.v_l_1)
+    View vl1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,12 +24,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ButterKnife.inject(this);
+
+        vl1.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.red)));
     }
 
-    @OnClick({R.id.btn1})
+    @OnClick({R.id.v_l_1, R.id.v_r_1})
     public void onClick(View v) {
         int id = v.getId();
-        if (id == R.id.btn1) {
+        if (id == R.id.v_l_1) {
 
         }
     }
