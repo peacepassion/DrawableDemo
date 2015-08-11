@@ -30,6 +30,13 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/height"/>
 
+        <View
+            android:id="@+id/v_r_2"
+            android:clickable="true"
+            android:background="@drawable/gradient_draw"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height"/>
+
     </LinearLayout>
 
 </LinearLayout>
